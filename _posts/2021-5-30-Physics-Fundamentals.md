@@ -1,3 +1,8 @@
+---
+layout: post
+title: Key about Makefile
+---
+
 ## Cmake与MingW-make的区别
 <!-- $$
 \lim(x\to\infin)\frac{\sin(t)}{x}=1
