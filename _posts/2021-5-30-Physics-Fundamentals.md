@@ -16,8 +16,20 @@ $$
 javafh(int i)
 faf
 ``` -->
-Cmake支持跨平台，需要规则文件，即**CMakelists.txt**，根据该规则文件生成Makefile。  
-MingW-make同样跨平台，但该程序是作用对象是Makefile文件。
+Cmake支持跨平台，是用于build、test和package的工具，你可以把它看成是一系列工具的统称**CMake Tools**。通常用于便利编译文件，需要规则文件，即**CMakelists.txt**，根据该规则文件生成Makefile。  
+MingW32-make同样跨平台，但该程序是作用对象是Makefile文件。
+
+而如何生成一个Makefile呢？  
+这就需要CMake Generator了。 
+
+**Makefile Generators**
+* Borland Makefiles  
+* MSYS Makefiles  
+* MinGW Makefiles  
+* NMake Makefiles  
+* NMake Makefiles JOM  
+* Unix Makefiles  
+* Watcom WMake
 
 大概流程如下图：  
 <div align=center><img src="2021-05-31-12-30-01.png" width="50%" alt="流程图"/></div>  
