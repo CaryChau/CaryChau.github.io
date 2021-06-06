@@ -1,0 +1,2 @@
+## 如何编写一个大项目
+最近研读了box2d项目的源码，里面有许多可以学习的地方。其中最深刻的就是封装接口，settings.h和b2_block_allocator.h之间有条挺重要的联系，底层实现在settings.h文件，而接口在b2_block_allocator.h文件，用户直接包含allocator头文件即有分配内存功能。
