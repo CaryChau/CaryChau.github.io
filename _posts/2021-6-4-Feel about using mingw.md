@@ -6,5 +6,8 @@
 ![](2021-06-05-00-12-41.png)
 关于MinGW和Cygwin的区别在[StackOverflow](https://stackoverflow.com/questions/771756/what-is-the-difference-between-cygwin-and-mingw)有相关讨论。
 
+## C++线程类踩坑
+![](2021-06-08-00-15-32.png)
+
 拓展：  
 [MinGW64介绍](https://blog.csdn.net/Mculover666/article/details/89844460)
