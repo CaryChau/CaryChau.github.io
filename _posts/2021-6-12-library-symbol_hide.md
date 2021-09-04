@@ -24,6 +24,12 @@
 - 只有msvc才有动态库封装部分接口给外部使用，其他的如gcc会封装所有的函数给外部使用
 - **封装**使用__declspec(dllexport)修饰函数/类，**调用**使用__declspec(dllimport)修饰函数/类
 ```
+// 指定外部可用的库
+__declspec(dllexport)
+// 调用
+extern __declspec(dllimport)
+```
+```
 // 动态库封装的cmakelist.txt
 if(WIN32)
     if(MSVC)

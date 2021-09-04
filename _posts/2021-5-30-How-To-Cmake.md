@@ -3,7 +3,7 @@ layout: post
 title: Key about Makefile
 ---
 
-## Cmake与MingW-make的区别
+## Cmake与MinGW-make的区别
 <!-- $$
 \lim(x\to\infin)\frac{\sin(t)}{x}=1
 $$
@@ -84,3 +84,11 @@ MESSAGE(STATUS "This is SOURCE dir " ${HELLO_SOURCE_DIR})
     <div style="font-size:12px;color:#4F42F;">
     Box2D引擎源码(b)
 </center>
+
+学习资料：  
+[使用 CMake 进行跨平台软件开发](https://blog.csdn.net/Bowater/article/details/2456732)  
+jacky_ling0
+
+[CMake环境配置（含intellisense）](https://blog.csdn.net/ha_____ha/article/details/108320475)
+
+[Pragma内功](https://blog.csdn.net/EmSoftEn/article/details/50374041)
