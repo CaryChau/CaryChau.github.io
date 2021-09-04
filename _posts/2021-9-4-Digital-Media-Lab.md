@@ -1,6 +1,6 @@
 ## 数字媒体工作室（2020.10-2021.03）
 ### 工作室内部照
-![](2021-09-04-11-30-03.png)
+![](https://github.com/Kayasama/Kayasama.github.io/blob/master/_posts/2021-09-04-11-30-03.png?raw=true)
 
 ---
 ## 项目经历
