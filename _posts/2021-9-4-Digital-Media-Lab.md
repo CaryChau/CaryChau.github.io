@@ -6,7 +6,7 @@
 ## 项目经历
 
 
-- 工具使用：Resilio Sync、Unity3D、Visual Studio
+- **工具使用**：Resilio Sync、Unity3D、Visual Studio
 
 ### VR钢琴
 - 负责场景美术的搭建、粒子特效
@@ -23,12 +23,12 @@
 
 ### 关于项目其他信息
 - RPG游戏相关需求
-![](2021-09-04-11-30-04.png)
+![](https://github.com/Kayasama/Kayasama.github.io/blob/master/_posts/2021-09-04-11-30-04.png?raw=true)
 
 - VR钢琴相关需求
   - 天空盒切换  
-![](2021-09-04-11-39-05.png)  
+![](https://github.com/Kayasama/Kayasama.github.io/blob/master/_posts/2021-09-04-11-39-05.png?raw=true)  
   - 灯光切换，灯光运动  
-![](2021-09-04-11-39-13.png)  
+![](https://github.com/Kayasama/Kayasama.github.io/blob/master/_posts/2021-09-04-11-39-13.png?raw=true)  
   - 0.5秒换一次贴图  
-![](2021-09-04-11-39-20.png)
+![](https://github.com/Kayasama/Kayasama.github.io/blob/master/_posts/2021-09-04-11-39-20.png?raw=true)
