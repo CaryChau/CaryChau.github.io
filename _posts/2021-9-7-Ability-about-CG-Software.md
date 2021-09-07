@@ -1,11 +1,11 @@
-## 个人CG技能介绍
-### CG软件
+# 个人CG技能介绍
+## CG软件
 - Maya，擅长建模、渲染，对建模技巧有自己的一套理解
 - Photoshop及Adobe家其他工具，熟悉基本工具及相关操作
 - 数字绘画，有扎实的基本功，包括结构、透视、色彩原理
 
-### 作品展示
-- Maya
+## 作品展示
+### Maya
 
 ![image](https://user-images.githubusercontent.com/45761599/132291705-9bf11d3e-0a63-4aa7-9d74-cf2211d800b3.png)
 
@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/45761599/132292078-92950e3e-e8b8-4a0f-a6f8-b8578fc86fd6.png)
 
-- Photoshop
+### Photoshop
 
 ![宝盒星空](https://user-images.githubusercontent.com/45761599/132293765-d9d45cf4-4823-4467-a975-9d303424a5ba.jpg)
 
@@ -37,7 +37,7 @@
 
 ![Sample4](https://user-images.githubusercontent.com/45761599/132293818-ec6b7cfd-4b37-4442-a437-e597a1f33a0e.jpg)
 
-- 数字绘画
+### 数字绘画
 
 ![hand](https://user-images.githubusercontent.com/45761599/132294058-43794c61-a892-4b15-b245-ba1c4792a64e.jpg)
 
