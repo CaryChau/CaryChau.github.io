@@ -1,10 +1,10 @@
-# 个人CG技能介绍
-## CG软件
-- Maya，擅长建模、渲染，对建模技巧有自己的一套理解
-- Photoshop及Adobe家其他工具，熟悉基本工具及相关操作
-- 数字绘画，有扎实的基本功，包括结构、透视、色彩原理
+# Introduction to personal CG skills
+## CG software
+- Maya, good at modeling and rendering, has its own understanding of modeling techniques
+- Photoshop and other Adobe tools, familiar with basic tools and related operations
+- Digital painting, with solid basic skills, including structure, perspective, and color principles
 
-## 作品展示
+## Portfolio
 ### Maya
 
 ![image](https://user-images.githubusercontent.com/45761599/132291705-9bf11d3e-0a63-4aa7-9d74-cf2211d800b3.png)
@@ -37,7 +37,7 @@
 
 ![Sample4](https://user-images.githubusercontent.com/45761599/132293818-ec6b7cfd-4b37-4442-a437-e597a1f33a0e.jpg)
 
-### 数字绘画
+### Digital painting
 
 ![hand](https://user-images.githubusercontent.com/45761599/132294058-43794c61-a892-4b15-b245-ba1c4792a64e.jpg)
 
@@ -55,4 +55,4 @@
 
 ![apple](https://user-images.githubusercontent.com/45761599/132294280-bd87cd94-9eea-4be8-8c9d-4bdc790902ff.jpg)
 
-### 以上是本人觉得自己做得还可以的作品，如需源文件可邮箱我：s188869011@qq.com
+### The above are the works that I think I did well. If you need the source files, please email me:：a188869011@gmail.com
