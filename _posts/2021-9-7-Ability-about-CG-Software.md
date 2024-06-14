@@ -1,8 +1,8 @@
 # Introduction to personal CG skills
 ## CG software
-- Maya, good at modeling and rendering, has its own understanding of modeling techniques
+- Maya, good at modeling and rendering, have my own understanding of modeling techniques
 - Photoshop and other Adobe tools, familiar with basic tools and related operations
-- Digital painting, with solid basic skills, including structure, perspective, and color principles
+- Digital painting with Wacom tool, have solid basic skills, including structure, perspective, and color principles
 
 ## Portfolio
 ### Maya
