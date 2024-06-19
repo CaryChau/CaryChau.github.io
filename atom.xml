@@ -3,13 +3,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>BandMan</title>
+ <title>CaryChau</title>
  <link href="https://kayasama.github.io/atom.xml" rel="self"/>
  <link href="https://kayasama.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>https://kayasama.github.io/</id>
  <author>
-   <name>BandMan</name>
+   <name>CaryChau</name>
    <email>a188869011@gmail.com</email>
  </author>
 
