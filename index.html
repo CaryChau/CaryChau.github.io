@@ -1,15 +1,111 @@
----
-layout: default
-title: Kayasama
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
 
-  
-</div>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="/" class="logo">
+                CaryChau
+            </a>
+
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="/" class="active">Home</a></li>
+                    <li><a href="/highlights.html">Highlights</a></li>
+                    <li><a href="/aboutme.html">About Me</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section: Partner Photo -->
+        <section class="welcome-section">
+            <div class="overlay"></div>
+            <div class="welcome-text">
+                <h1>Welcome Future Partners</h1>
+                <p>Meet our best guitar partners and imagine yourself in their shoes.</p>
+            </div>
+        </section>
+
+        <section class="portfolio-section">
+
+            <h2 class="portfolio-title">
+                Featured Projects
+            </h2>
+
+            {% for project in site.projects %}
+
+            <div class="project-box slide-in">
+
+                <h3>
+                    <a href="{{ project.url }}">
+                        {{ project.title }}
+                    </a>
+                </h3>
+
+                <p>
+                    {{ project.description }}
+                </p>
+
+                <div class="project-links">
+
+                    <a href="{{ project.github }}" target="_blank">
+                        GitHub Repository
+                    </a>
+
+                </div>
+
+            </div>
+
+            {% endfor %}
+
+        </section>
+
+        <section class="career-section">
+
+            <h2>
+                Future Career Plan
+            </h2>
+
+            <div class="career-text">
+
+                My long-term ambition is to create games that preserve,
+                promote and revitalize local culture through interactive
+                storytelling.
+
+                Rather than treating games solely as entertainment,
+                I believe games can become digital cultural artifacts
+                that allow players to experience traditions, languages,
+                folklore, industries and historical memories in ways
+                that books and videos cannot.
+
+                My goal is to combine software engineering,
+                simulation systems and game design to build meaningful
+                experiences that connect younger generations with
+                their cultural roots while remaining engaging to
+                international audiences.
+
+            </div>
+
+            <a href="aboutme.html" class="aboutme-btn">
+                About Me
+            </a>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Guitar Lovers Club. All rights reserved.</p>
+    </footer>
+    <script src="js/scrollReveal.js"></script>
+</body>
+
+</html>

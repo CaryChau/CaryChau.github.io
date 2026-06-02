@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/aboutme.css">
+</head>
+
+<body>
+
+<header>
+    <div class="header-container">
+        <a href="/" class="logo">
+            CaryChau
+        </a>
+
+        <nav>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/highlights.html">Highlights</a></li>
+                <li><a href="/aboutme.html" class="active">About Me</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main class="about-container">
+
+    <h1 class="about-title">
+        {{ page.title }}
+    </h1>
+
+    <section class="about-content">
+
+        <div class="about-text">
+            {{ content }}
+        </div>
+
+        <div class="about-image">
+            <img
+                src="{{ page.photo }}"
+                alt="{{ page.title }}">
+        </div>
+
+    </section>
+
+    <section class="social-links">
+
+        <a href="mailto:{{ page.email }}" class="social-btn">
+            Email
+        </a>
+
+        <a href="{{ page.github }}"
+           target="_blank"
+           class="social-btn">
+            GitHub
+        </a>
+
+        <a href="{{ page.linkedin }}"
+           target="_blank"
+           class="social-btn">
+            LinkedIn
+        </a>
+
+        <a href="{{ page.instagram }}"
+           target="_blank"
+           class="social-btn">
+            Instagram
+        </a>
+
+    </section>
+
+</main>
+
+</body>
+
+</html>

@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>CaryChau</title>
- <link href="https://kayasama.github.io/atom.xml" rel="self"/>
- <link href="https://kayasama.github.io/"/>
+ <link href="https://carychau.github.io/atom.xml" rel="self"/>
+ <link href="https://carychau.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>https://kayasama.github.io/</id>
+ <id>https://carychau.github.io/</id>
  <author>
    <name>CaryChau</name>
    <email>a188869011@gmail.com</email>
@@ -16,9 +16,9 @@
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="https://kayasama.github.io/{{ post.url }}"/>
+   <link href="https://carychau.github.io/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>https://kayasama.github.io/{{ post.id }}</id>
+   <id>https://carychau.github.io/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
