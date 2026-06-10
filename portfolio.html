@@ -1,0 +1,30 @@
+---
+layout: common
+title: Portfolio
+---
+
+<section class="portfolio-header">
+
+    <h1>Portfolio</h1>
+
+    <p>
+        Selected projects covering game development,
+        simulation systems and software engineering.
+    </p>
+
+</section>
+
+<section class="project-grid">
+
+{% for project in site.projects %}
+
+    <a class="project-card"
+       href="{{ project.url }}">
+
+        <img src="{{ project.thumbnail }}">
+
+    </a>
+
+{% endfor %}
+
+</section>
