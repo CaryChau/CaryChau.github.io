@@ -1,12 +1,12 @@
 ---
 layout: aboutme
 title: About
-photo: /images/selfie.jpg
+photo: /images/profile.jpg
 
 email: a188869011@gmail.com
 github: https://github.com/carychau
-linkedin: https://linkedin.com/in/your-linkedin
-instagram: https://instagram.com/your-instagram
+linkedin: https://www.linkedin.com/in/zibin-zhou-b73336171/
+instagram: https://www.instagram.com/caryc399/
 ---
 
 Hi, I'm Cary.
