@@ -102,3 +102,27 @@ a:visited {
 a:hover {
     text-decoration: none;
 }
+
+.about-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.about-text {
+    flex: 1;
+    min-width: 0;
+}
+
+.about-photo {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
+}
+
+.about-photo img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    display: block;
+}
