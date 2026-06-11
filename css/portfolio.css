@@ -60,7 +60,9 @@ header {
 
 .hero {
     text-align: center;
-    padding: 100px 20px 80px;
+    padding: 20px 20px 80px;
+
+    border-bottom: 1px solid #e5e5e5;
 }
 
 .hero-name {
